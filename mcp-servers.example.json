@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "context7": { "command": "npx", "args": ["-y", "@upstash/context7-mcp"] },
+    "playwright": { "command": "npx", "args": ["-y", "@playwright/mcp", "--browser", "chromium", "--headless", "--isolated"] },
+    "fetch": { "command": "mcp-server-fetch", "args": [] },
+    "serena": {
+      "command": "serena",
+      "args": ["start-mcp-server", "--mode", "editing", "--open-web-dashboard", "False", "--enable-gui-log-window", "False", "--log-level", "WARNING"]
+    },
+    "rea": {
+      "command": "rea",
+      "args": ["mcp"],
+      "env": {
+        "GHIDRA_INSTALL_DIR": "C:/caminho/para/ghidra_12.2_PUBLIC",
+        "JAVA_HOME": "C:/caminho/para/jdk-25"
+      }
+    }
+  },
+  "quemUsa": {
+    "context7": ["Olheiro", "Arquiteto", "Investigador", "Auditor", "Cientista de Dados", "Dev"],
+    "playwright": ["Auditor", "Dev"],
+    "fetch": ["Olheiro", "Investigador"],
+    "serena": ["Investigador"],
+    "rea": ["Diretor de Cinema"]
+  }
+}

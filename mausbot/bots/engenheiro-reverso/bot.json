@@ -1,0 +1,12 @@
+{
+  "name": "Engenheiro Reverso",
+  "title": "Engenharia reversa (olha dentro do que já foi entregue)",
+  "color": "coral",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "deepseek",
+    "model": "deepseek-official/deepseek-v4-pro",
+    "variant": "high"
+  },
+  "mcpServers": []
+}

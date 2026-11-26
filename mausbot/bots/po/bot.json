@@ -1,0 +1,12 @@
+{
+  "name": "PO",
+  "title": "Product Owner",
+  "color": "red",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "claude",
+    "model": "claude-sonnet-5-5",
+    "effort": "medium"
+  },
+  "mcpServers": []
+}

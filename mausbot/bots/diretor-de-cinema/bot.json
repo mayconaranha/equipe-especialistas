@@ -1,0 +1,14 @@
+{
+  "name": "Diretor de Cinema",
+  "title": "Direção audiovisual, animação e continuidade",
+  "color": "green",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "claude",
+    "model": "claude-opus-5-5",
+    "effort": "high"
+  },
+  "mcpServers": [
+    "rea"
+  ]
+}

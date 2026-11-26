@@ -1,0 +1,15 @@
+{
+  "name": "Auditor",
+  "title": "QA e validação",
+  "color": "pink",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "deepseek",
+    "model": "deepseek-official/deepseek-v4-pro",
+    "variant": "high"
+  },
+  "mcpServers": [
+    "playwright",
+    "context7"
+  ]
+}

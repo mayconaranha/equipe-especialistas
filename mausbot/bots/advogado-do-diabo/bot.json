@@ -1,0 +1,12 @@
+{
+  "name": "Advogado do Diabo",
+  "title": "Analista de risco",
+  "color": "cyan",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "grok",
+    "model": "grok-4.7",
+    "effort": "high"
+  },
+  "mcpServers": []
+}

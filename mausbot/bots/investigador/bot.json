@@ -1,0 +1,16 @@
+{
+  "name": "Investigador",
+  "title": "Pesquisador de fatos do projeto (olha para dentro)",
+  "color": "purple",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "antigravity",
+    "model": "gemini-4-hydrogen",
+    "variant": "high"
+  },
+  "mcpServers": [
+    "serena",
+    "context7",
+    "fetch"
+  ]
+}

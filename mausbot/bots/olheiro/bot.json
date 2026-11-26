@@ -1,0 +1,15 @@
+{
+  "name": "Olheiro",
+  "title": "Pesquisador de referências (olha para fora)",
+  "color": "blue",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "grok",
+    "model": "grok-4.7",
+    "effort": "medium"
+  },
+  "mcpServers": [
+    "fetch",
+    "context7"
+  ]
+}

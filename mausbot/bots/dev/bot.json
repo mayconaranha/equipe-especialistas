@@ -1,0 +1,15 @@
+{
+  "name": "Dev",
+  "title": "Implementador (único que escreve arquivos)",
+  "color": "teal",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "codex",
+    "model": "gpt-6.2-astra",
+    "effort": "xhigh"
+  },
+  "mcpServers": [
+    "context7",
+    "playwright"
+  ]
+}

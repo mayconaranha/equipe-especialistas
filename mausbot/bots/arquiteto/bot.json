@@ -1,0 +1,14 @@
+{
+  "name": "Arquiteto",
+  "title": "Arquiteto de solução",
+  "color": "orange",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "claude",
+    "model": "claude-opus-5-5",
+    "effort": "xhigh"
+  },
+  "mcpServers": [
+    "context7"
+  ]
+}

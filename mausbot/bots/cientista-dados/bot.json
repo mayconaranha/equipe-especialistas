@@ -1,0 +1,14 @@
+{
+  "name": "Cientista de Dados",
+  "title": "Dados, estatística e ML",
+  "color": "yellow",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "deepseek",
+    "model": "deepseek-official/deepseek-v4-pro",
+    "variant": "high"
+  },
+  "mcpServers": [
+    "context7"
+  ]
+}

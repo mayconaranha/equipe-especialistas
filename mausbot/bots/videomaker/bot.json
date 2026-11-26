@@ -1,0 +1,12 @@
+{
+  "name": "Videomaker",
+  "title": "Produção de vídeo: animação, personagem, narração, legenda, trilha e render",
+  "color": "blue",
+  "section": "Trabalho",
+  "model": {
+    "instanceId": "claude",
+    "model": "claude-opus-5-5",
+    "effort": "high"
+  },
+  "mcpServers": []
+}
